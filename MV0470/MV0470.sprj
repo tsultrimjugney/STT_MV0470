@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project>
-  <transcriptionFont />
+  <transcriptionFont>Segoe UI, 26.25, Regular</transcriptionFont>
   <freeTranslationFont />
   <AutoSegmentersettings minSegmentLength="0" maxSegmentLength="0" preferrerdPauseLength="0" optimumLengthClampingFactor="0" />
   <Title>MV0470</Title>
