@@ -3,4 +3,6 @@
   <genre type="string">&lt;Unknown&gt;</genre>
   <date type="string">2023-06-11</date>
   <status type="string">Incoming</status>
+  <participants type="string"></participants>
+  <contributions type="xml" />
 </Session>
